@@ -1,0 +1,24 @@
+/* Write your code here. */
+
+.bg-container {
+  padding: 40px;
+  display: flex;
+  flex-direction: column;
+}
+
+.first-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.image-url {
+  height: 500px;
+  width: 600px;
+  margin: 10px;
+}
+
+.container-thumbnail {
+  display: flex;
+  flex-direction: row;
+}

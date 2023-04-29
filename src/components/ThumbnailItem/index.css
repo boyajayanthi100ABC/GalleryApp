@@ -1,0 +1,22 @@
+/* Write your code here.
+
+.thumbnail-img {
+  height: 50px;
+  width: 50px;
+  margin: 5px;
+  opacity: 0.5;
+}*/
+
+.active-tab-btn {
+  height: 50px;
+  width: 50px;
+  margin: 10px;
+  opacity: 0.5;
+  border: none;
+  outline: none;
+}
+
+.button-s {
+  border: none;
+  background-color: transparent;
+}
